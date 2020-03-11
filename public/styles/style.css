@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+p.fakeURL {
+  color: blue;
+  font-family: helvetica;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+p.fakeURL:hover {
+  text-decoration: underline;
+}
+
+p.fakeURL:active {
+  color: black;
+}
+
+p.fakeURL:visited {
+  color: purple;
+}
